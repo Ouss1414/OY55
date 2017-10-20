@@ -1,6 +1,6 @@
 <?php
 
-$con = new mysqli('progfieldscom.domaincommysql.com', 'progfileds_db','Soso-2010' , 'db_progfields_800646596_v');
+    $con = new mysqli('localhost', 'root','' , 'db_progfields_8003112356_v');
 
     if ($con->connect_error) {
         die("Connection failed: " . $con->connect_error);

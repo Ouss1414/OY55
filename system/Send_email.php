@@ -14,6 +14,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $subject_DB = $_POST['subject'];
     $message_DB = $_POST['message'];
 
+    /* change character set to utf8 */
+    $con->set_charset("utf8");
+
     $sql = "INSERT INTO contact_us (First_Name,Last_Name,Email,Subject,Message)
                             VALUES ('$Fname','$Lname','$email','$subject_DB','$message_DB')";
 

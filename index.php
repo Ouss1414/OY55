@@ -1,7 +1,7 @@
 <?php
 require "system/myFunctions.php";
 require "system/requestHandel.php";
-require "System/DBoprations.php";
+require "system/DBoprations.php";
 
     //switch for main pages
     switch($PageID){

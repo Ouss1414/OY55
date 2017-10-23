@@ -5,9 +5,9 @@ require "system/DBoprations.php";
 
     //switch for main pages
     switch($PageID){
-        case "home_en" : include_once "home_en.html";
+        case "home_en" : include_once "home_en.php";
         break;
-        default: include_once "home_ar.html";
+        default: include_once "home_ar.php";
         break;
     }
 ?>

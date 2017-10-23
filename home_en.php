@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>حقول برمجية</title>
+    <title>Programing Fields</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=" HTML5, Website,mobile" />
     <meta name="keywords" content="website template, html5, css3, mobile, responsive" />
@@ -53,7 +53,7 @@
 
 <!-- ############################################################################################### -->
 
-<body dir="rtl">
+<body>
 
 <div class="gtco-loader"></div>
 
@@ -61,25 +61,27 @@
     <nav class="gtco-nav" role="navigation" style="background: white;max-height: 1%">
         <div class="gtco-container">
             <div class="row">
-                <div class="col-xs-3 text-left hidden-xs menu-2" style="margin-top: -15px">
-                    <ul>
-                        <li class="btn-cta" style="display: none"><a href="#"><span>تسجيل الدخول</span></a></li>
-                        <li><a href="index.php?pid=home_en" style="color: #52d3aa; "><span>ENGLISH</span></a></li>
-                    </ul>
+
+                <div class="col-xs-1" style="margin-top: -60px; margin-left: -8%">
+                    <div id="gtco-logo"><a href="index.php?pid=home_en"><img src="images/logos/logo.PNG" width="230px" height="120px"></a></div>
                 </div>
-                <div class="col-xs-6 text-center menu-1" style="margin-top: -20px">
+
+                <div class="col-xs-8 text-right menu-1" style="margin-top: -15px;margin-left: 90px">
                     <ul>
-                        <li><a href="index.php?pid=home_ar" style="font-size: 22px; color: inherit">الرئيسية</a></li>
-                        <li><a href="#who are we" style="font-size: 22px;color: inherit">من نحن</a></li>
-                        <li><a href="#services" style="font-size: 22px;color: inherit">خدماتنا</a></li>
-                        <li><a href="#team work" style="font-size: 22px;color: inherit; display: none">فريق العمل</a></li>
-                        <li><a href="#tools" style="font-size: 22px;color: inherit">الأدوات</a></li>
-                        <li><a href="#contact us" style="font-size: 22px;color: inherit">تواصل معنا</a></li>
+                        <li><a href="index.php?pid=home_en" style="font-size: 15px; color: inherit">Home</a></li>
+                        <li><a href="#who are we" style="font-size: 15px;color: inherit">who are we</a></li>
+                        <li><a href="#Services" style="font-size: 15px;color: inherit">Services</a></li>
+                        <li style="display: none"><a href="#Team Work" style="font-size: 15px;color: inherit;">Team Work</a></li>
+                        <li><a href="#Tools" style="font-size: 15px;color: inherit">Tools</a></li>
+                        <li><a href="#Contact us" style="font-size: 15px;color: inherit">Contact us</a></li>
                     </ul>
                 </div>
 
-                <div class="col-xs-1" style="margin-top: -60px; float: right; margin-right: -8%">
-                    <div id="gtco-logo"><a href="index.php?pid=home_ar"><img src="images/logos/logo.PNG" width="230px" height="120px"></a></div>
+                <div class="col-xs-4 text-right hidden-xs menu-2" style="margin-top: -15px; margin-left: 30px;max-width: 250px">
+                    <ul>
+                        <li><a href="index.php?pid=home_ar" style="color: #52d3aa; "><span>العربية</span></a></li>
+                        <li class="btn-cta" style="display:none"><a href="#"><span>Login</span></a></li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -91,9 +93,9 @@
                 <div class="col-md-8 col-md-offset-2 text-center" style="margin-top: -50px">
                     <div class="display-t">
                         <div class="display-tc animate-box" data-animate-effect="fadeIn">
-                            <h1>حقول برمجية</h1>
-                            <h2> مؤسسة <a href="index.php?pid=home_ar"> حقول برمجية </a> لتقنية المعلومات  </h2>
-                            <p><a href="#contact us" class="btn btn-default">أطلب خدمتنا</a></p>
+                            <h1>Programing Fields</h1>
+                            <h2> Corporation <a href="index.php?pid=home_en"> Programing Fields </a> for information technology. </h2>
+                            <p><a href="#Contact us" class="btn btn-default">Ask for our service</a></p>
                         </div>
                     </div>
                 </div>
@@ -107,19 +109,13 @@
         <div class="gtco-container">
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center gtco-heading gtco-heading-sm">
-                    <h2 style="color:#52d3aa">من نحن ؟</h2>
+                    <h2 style="color:#52d3aa">Who are we ?</h2>
                 </div>
             </div>
             <div class="row animate-box">
-                <div class="col-md-12 text-right">
-                    <h2>مؤسسة حقول برمجية لتقنية المعلومات</h2>
-                    <p>  مؤسسة وطنية متخصصة في مجال تقنية المعلومات , تأسست في ظل تنامي متطلبات قطاع تقنية المعلومات
-                        لتكون كيان يدفع باتجاه تطور صناعة البرمجيات في المنطقة وفق أحدث الطرق العلمية , وترسيخ فكر
-                        الإبداع و الإتقان في هذه الصناعة اعتماداً على كوادر ذو خبرات علمية وعملية من مهندسي برمجيات , ومحللي نظم , وافراد تسويق
-                        , حيث تهدف لتطوير أفكارومشاريع برمجية رائدة وإدارتها، بالإضافة لتقديم حلول متكاملة لعملائها في مجالات
-                        تطبيقات الويب وتطبيقات الهواتف الذكية بكافة أنظمتها وإنجاز متطلباتهم بدقة وكفاءة عالية.
-
-                    </p>
+                <div class="col-md-12">
+                    <h2>Corporation Programing Fields for information technology.</h2>
+                    <p> Is a national institution specialized in the field of information technology, established in light of the growing requirements of the IT sector to be an entity that drives the development of the software industry in the region according to the latest scientific methods, and instilling the idea of creativity and perfection in this industry based on cadres with scientific and practical expertise of software engineers, Systems and marketing personnel. It aims to develop and manage ideas and leading software projects, as well as provide integrated solutions for its customers in the fields of web applications and smart phone applications in all their systems and to fulfill their requirements accurately and efficiently. </p>
                 </div>
 
             </div>
@@ -129,48 +125,43 @@
     <!-- رويتنا -->
     <div id="gtco-features-2">
         <div class="gtco-container">
-
-            <div class="col-md-6">
-                <!--<div class="gtco-video gtco-bg" style="background-image: url(images/img_1.jpg); ">-->
-                    <!--<a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video2"></i></a>-->
-                    <!--<div class="overlay"></div>-->
-                <!--</div>-->
-                <img src="images/logos/logo.PNG" style="max-width: 100%;padding-top: 10%">
-            </div>
-
-            <div class="row" style="direction: rtl">
+            <div class="row">
                 <div class="col-md-6">
                     <div class="feature-left animate-box" data-animate-effect="fadeInLeft">
-                        <h2 style="margin-right: 30px">رؤيتنـــا</h2><br>
-                        <div class="feature-copy">
-
-                            <p style="direction: rtl">أن نكون من الرواد إقليمياً في تطبيقات تقنية المعلومات وأمنها بالاعتماد على مجموعة من المعايير العالمية التي تغطي كافة جوانب تقنية المعلومات وذلك لضمان تقديم آخر التقنيات وأفضل الممارسات العالمية في مختلف مجالات تقنية المعلومات.</p>
-                        </div>
-                        <span class="icon" style="float: right">
+                        <h2>Our vision</h2><br>
+                        <span class="icon">
 							<i class="icon-check"></i>
 						</span>
+                            <div class="feature-copy">
+                                <p>To be a regional leader in IT applications and security based on a set of global standards covering all aspects of information technology to ensure that the latest technologies and best practices in the various fields of information technology.</p>
+                            </div>
+                        </div>
+
+                    <div class="feature-left animate-box" data-animate-effect="fadeInLeft">
+                        <span class="icon">
+							<i class="icon-check"></i>
+						</span>
+                        <div class="feature-copy">
+                            <p>We strive to develop all solutions related to the field of information technology and electronic solutions to our customers by continuing to develop their business with ease.</p>
+                        </div>
                     </div>
 
                     <div class="feature-left animate-box" data-animate-effect="fadeInLeft">
-                        <div class="feature-copy">
-
-                            <p style="direction: rtl">نسعى الى تطوير كافة الحلول المتعلقة بمجال تكنولوجيا المعلومات والحلول الالكترونية لعملائنا وذلك لتمكينهم من الاستمرار في تطوير اعمالهم بكل يسر و سهولة فنحن نقوم بتقديم افضل الحلول المتكاملة في كافة المجالات.</p>
-                        </div>
-                        <span class="icon" style="float: right">
+                        <span class="icon">
 							<i class="icon-check"></i>
 						</span>
-                    </div>
-
-                    <div class="feature-left animate-box" data-animate-effect="fadeInLeft">
                         <div class="feature-copy">
-
-                            <p style="direction: rtl">نسعى الى تقديم حلول تتسم بسهولة الاستخدام و مواكبتها لاخر التطورات التقنية علاوة على تغطيتها كافة المتطلبات التشغلية مع امكانية تكيفها مع المتطلبات الخاصة لكل مستفيد وتمكين رؤيتنا في توفير بيئة معلوماتيه تحقق توحيد للمعايير و تحسين الانتاجية.</p>
+                            <p>We strive to provide solutions that are easy to use and keep abreast of the latest technical developments, as well as covering all the operational requirements with the possibility of adapting them to the specific requirements of each beneficiary and enabling our vision to provide an information environment that achieves standardization and productivity improvement.</p>
                         </div>
-                        <span class="icon" style="float: right">
-							<i class="icon-check"></i>
-						</span>
                     </div>
 
+                </div>
+                <div class="col-md-6">
+                    <!--<div class="gtco-video gtco-bg" style="background-image: url(images/img_1.jpg); ">-->
+                        <!--<a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video2"></i></a>-->
+                        <!--<div class="overlay"></div>-->
+                    <!--</div>-->
+                    <img src="images/logos/logo.PNG" style="max-width: 100%;padding-top: 10%">
                 </div>
             </div>
         </div>
@@ -179,10 +170,10 @@
 
     <!-- خدماتنا -->
     <div id="gtco-services">
-        <div class="gtco-container" id="services">
+        <div class="gtco-container" id="Services">
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-                    <h2>خدماتنا</h2>
+                    <h2 style="color: #52d3aa">Services</h2>
                 </div>
             </div>
 
@@ -190,113 +181,103 @@
 
                 <div class="gtco-tabs">
                     <ul class="gtco-tab-nav">
-                        <li><a href="#" data-tab="6"><span class="icon visible-xs"><i class="icon-round-brush"></i></span><span class="hidden-xs"><h4>تصميم المــواقع</h4></span></a></li>
-                        <li><a href="#" data-tab="3"><span class="icon visible-xs"><i class="icon-laptop"></i></span><span class="hidden-xs"><h4>برمجة البرامج الحاسوبية</h4></span></a></li>
-                        <li><a href="#" data-tab="2"><span class="icon visible-xs"><i class="icon-mobile"></i></span><span class="hidden-xs"><h4>تطبيقات الجـــوال</h4></span></a></li>
-                        <li class="active"><a href="#" data-tab="1"><span class="icon visible-xs"><i class="icon-code"></i></span><span class="hidden-xs"><h4>برمجــة المــواقع</h4></span></a></li>
+                        <li class="active"><a href="#" data-tab="1"><span class="icon visible-xs"><i class="icon-code"></i></span><span class="hidden-xs"><h4>Web Programming</h4></span></a></li>
+                        <li><a href="#" data-tab="2"><span class="icon visible-xs"><i class="icon-mobile"></i></span><span class="hidden-xs"><h4>Mobile Apps</h4></span></a></li>
+                        <li><a href="#" data-tab="3"><span class="icon visible-xs"><i class="icon-laptop"></i></span><span class="hidden-xs"><h4>Software Programming</h4></span></a></li>
+                        <li><a href="#" data-tab="6"><span class="icon visible-xs"><i class="icon-round-brush"></i></span><span class="hidden-xs"><h4>Web Design</h4></span></a></li>
                     </ul>
                     <ul class="gtco-tab-nav" style="margin-top: -3.5%">
-                        <li style="margin-left: 25%"><a href="#" data-tab="5"><span class="icon visible-xs"><i class="icon-controller-play"></i></span><span class="hidden-xs"><h4>المونتــاج</h4></span></a></li>
-                        <li><a href="#" data-tab="4"><span class="icon visible-xs"><i class="icon-round-brush"></i></span><span class="hidden-xs"><h4>تصميم العلامات التجارية</h4></span></a></li>
+                        <li style="margin-left: 25%"><a href="#" data-tab="4"><span class="icon visible-xs"><i class="icon-round-brush"></i></span><span class="hidden-xs"><h4>Design of trade marks</h4></span></a></li>
+                        <li><a href="#" data-tab="5"><span class="icon visible-xs"><i class="icon-controller-play"></i></span><span class="hidden-xs"><h4>Editing</h4></span></a></li>
                     </ul>
 
                     <!-- Tabs -->
                     <div class="gtco-tab-content-wrap">
 
                         <div class="gtco-tab-content tab-content active" data-tab-content="1">
-                            <div class="col-md-6" style="direction: rtl">
-                                <h2>برمجة المواقع</h2>
-                                <p>إذا كنت ترغب فى برمجة خاصة لموقعك فنحن نقوم بتقديم أفضل الحلول البرمجية للويب لأننا نعمل بأفضل وأحدث أساليب التطوير ونختار افضل بيئات العمل يمكنك الان شرح فكرتك البرمجية و نوفر لك افضل خبرات برمجية لتحويل أفكارك الى واقع</p>
-
-
-
-                            </div>
                             <div class="col-md-6">
                                 <div class="icon icon-xlg">
                                     <i class="icon-code"></i>
                                 </div>
                             </div>
 
+                            <div class="col-md-6">
+                                <h2>Web Programming</h2>
+                                <p>If you want special programming for your site we provide the best software solutions for the web because we work the best and latest development methods and choose the best working environments You can now explain your idea and give you the best software expertise to turn your ideas into reality</p>
+                            </div>
+
                         </div>
 
                         <div class="gtco-tab-content tab-content" data-tab-content="2">
-                            <div class="col-md-6" style="direction: rtl">
-                                <h2>تطبيقات الجوال</h2>
-                                <p> نقدم خدمة تصميم وبرمجة تطبيقات الجوال الذكية اندرويد  للشركات والأفراد والمؤسسات بجودة عالية  نستطيع تحويل فكرتك لتطبيق يعمل علي بيئة عمل Android، بدءاً من التخطيط والتصميم والتنفيذ كما نقوم بعمل تطبيقات احترافية للجوال للأنظمة والشركات بداية من التصميم المتميز المناسب للفكرة وانتهاء ببرمجة قوية وأداء عالي .</p>
-
-
-
-                            </div>
                             <div class="col-md-6">
                                 <div class="icon icon-xlg">
                                     <i class="icon-mobile"></i>
                                 </div>
                             </div>
-
-                        </div>
-
-                        <div class="gtco-tab-content tab-content" data-tab-content="3">
-                            <div class="col-md-6" style="direction: rtl">
-                                <h2>برمجة البرامج الحاسوبية</h2>
-                                <p>تعتمد الشركات بشكل كبير على التقنية والحوسبة في تسيير أعمالها وتسهيل تخزين ونقل المعلومات واستعادتها ثم فرزها واصدار التقارير المالية والحسابية وتقارير الاعمال ونسب التنفيذ وغيرها من الاحتياجات . من هنا نقدم حلولاً مبتكرة ومتطورة في مجال برامج سطح المكتب .</p>
+                            <div class="col-md-6">
+                                <h2>Mobile Apps</h2>
+                                <p>We design Android mobile applications for businesses, individuals and organizations with high quality. We can transform your idea into an Android-based application, from planning, design and implementation, and professional mobile applications for systems and companies from the right design to the powerful programming and performance.</p>
 
 
                             </div>
+                        </div>
+
+                        <div class="gtco-tab-content tab-content" data-tab-content="3">
                             <div class="col-md-6">
                                 <div class="icon icon-xlg">
                                     <i class="icon-laptop"></i>
                                 </div>
                             </div>
+                            <div class="col-md-6">
+                                <h2>Software Programming</h2>
+                                <p>Companies rely heavily on technology and computerization in the management of business and facilitate the storage and transmission of information and retrieval and then sorted and issued financial and accounting reports, business reports and implementation rates and other needs. From here we offer innovative and sophisticated solutions in the field of desktop software.</p>
 
+
+
+                            </div>
                         </div>
 
                         <div class="gtco-tab-content tab-content" data-tab-content="4">
 
-                            <div class="col-md-6" style="direction: rtl" >
-                                <h2>تصميم العلامات التجارية</h2>
-                                <p>تصميم لوجو ( شعار ) متميز لموقعك او مؤسستك يعبر عنك بالشكل اللائق.</p>
-
-                                <p>شعار موقعك او مؤسستك سيبقى دائما في ذاكرة المشاهد ليكون مرتبطا باسم موقعك او مؤسستك على المدى البعيد .</p>
-
-
-                            </div>
                             <div class="col-md-6">
                                 <div class="icon icon-xlg">
                                     <i class="icon-round-brush"></i>
                                 </div>
                             </div>
 
+                            <div class="col-md-6">
+                                <h2>Design of trade marks</h2>
+                                <p>The design of a distinctive logo for your site or organization reflects you properly.</p>
+                                <p>The logo of your site or organization will always remain in the viewer's memory to be associated with the name of your site or organization in the long run.</p>
+                            </div>
+
 
                         </div>
 
                         <div class="gtco-tab-content tab-content" data-tab-content="5">
-                            <div class="col-md-6"  style="direction: rtl">
-                                <h2>المونتاج</h2>
-                                <p>نقدم حلولاً متكاملة ومتطورة في مجال المونتاج التي يمكن توظيفها في الخدمات الاعلامية المتنوعة كالعروض التقديمية والافلام القصيرة الوثائقية والعروض الفلاشية .<p>
-
-                            </div>
                             <div class="col-md-6">
                                 <div class="icon icon-xlg">
                                     <i class="icon-controller-play"></i>
                                 </div>
                             </div>
+                            <div class="col-md-6">
+                                <h2>Editing</h2>
+                                <p>We offer integrated and advanced solutions in the field of editing that can be employed in various media services such as presentations, short documentaries and flash presentations.</p>
 
+                            </div>
                         </div>
 
                         <div class="gtco-tab-content tab-content" data-tab-content="6">
-                            <div class="col-md-6" style="direction: rtl">
-                                <h2>تصميم المواقع</h2>
-                                <p>نقدم خدمة التصميم الخاصة بمواقع الويب بقدرات عالية وبأيدي متخصصة حيث إننا نقدر أبعاد وأهمية الجانب الظاهري المتناسب والمنسجم مع المحتوى والذي يريح الزائر ويظهر جمالية المحتويات التي يحتويها موقع الويب فجاذبية الألوان شيء أساسي نركز عليه لكي يعكس راحة فائقة لتصفح الموقع بكل راحة وسهولة</p>
-
-
-                            </div>
                             <div class="col-md-6">
                                 <div class="icon icon-xlg">
                                     <i class="icon-brush"></i>
                                 </div>
                             </div>
 
-
+                            <div class="col-md-6">
+                                <h2>Web Design</h2>
+                                <p>We offer high quality web design services with specialized tools. We appreciate the dimensions and importance of the virtual side that is consistent with the content, making the visitor feel comfortable and showing the aesthetics of the content that contains the site. The color of gravity is something necessary to focus on.</p>
+                            </div>
                         </div>
 
                     </div>
@@ -308,65 +289,16 @@
 
 
     <!-- تعداد -->
-    <div id="gtco-counter" class="gtco-bg gtco-counter" style="background-image:url(images/img_bg_2.jpg);">
-        <div class="gtco-container">
-            <div class="row">
-                <div class="display-t">
-                    <div class="display-tc">
-                        <div class="col-md-3 col-sm-6 animate-box">
-                            <div class="feature-center">
-								<span class="icon">
-									<i class="icon-eye"></i>
-								</span>
-
-                                <span class="counter js-counter" data-from="0" data-to="22070" data-speed="5000" data-refresh-interval="50">1</span>
-                                <span class="counter-label">Creativity Fuel</span>
-
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6 animate-box">
-                            <div class="feature-center">
-								<span class="icon">
-									<i class="icon-anchor"></i>
-								</span>
-
-                                <span class="counter js-counter" data-from="0" data-to="97" data-speed="5000" data-refresh-interval="50">1</span>
-                                <span class="counter-label">Happy Clients</span>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6 animate-box">
-                            <div class="feature-center">
-								<span class="icon">
-									<i class="icon-briefcase"></i>
-								</span>
-                                <span class="counter js-counter" data-from="0" data-to="402" data-speed="5000" data-refresh-interval="50">1</span>
-                                <span class="counter-label">Projects Done</span>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6 animate-box">
-                            <div class="feature-center">
-								<span class="icon">
-									<i class="icon-clock"></i>
-								</span>
-
-                                <span class="counter js-counter" data-from="0" data-to="212023" data-speed="5000" data-refresh-interval="50">1</span>
-                                <span class="counter-label">Hours Spent</span>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
+    <?php
+        Show_calculate_en();
+    ?>
 
     <!-- الاد،ات -->
     <div id="gtco-features">
-        <div class="gtco-container" id="tools">
+        <div class="gtco-container" id="Tools">
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-                    <h2 style="color:#52d3aa">الأدوات</h2>
+                    <h2 style="color:#52d3aa">Tools</h2>
                 </div>
             </div>
             <div class="row">
@@ -433,7 +365,7 @@
             <div class="row">
                 <div class="row animate-box">
                     <div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-                        <h2>الاراء</h2>
+                        <h2>Opinions</h2>
                     </div>
                 </div>
                 <div class="row animate-box">
@@ -482,7 +414,7 @@
 
     <!--فريق العمل  -->
     <div id="gtco-team" class="gtco-section" style="display: none">
-        <div class="gtco-container" id="team work">
+        <div class="gtco-container" id="Team Work">
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center gtco-heading">
                     <h2 style="color:#52d3aa">فريق العمل</h2>
@@ -565,74 +497,68 @@
 
     <!--تواصل  -->
     <div id="gtco-started">
-        <div class="gtco-container" id="contact us">
+        <div class="gtco-container" id="Contact us">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-                    <h2 style="color: inherit">تواصل معنا</h2>
+                    <h2 style="color: inherit">Contact us</h2>
                 </div>
                 <div class="gtco-section">
                     <div class="gtco-container">
-
-                        <div class="col-md-5 col-md-push-1">
-
-                            <div class="gtco-contact-info pull-left">
-                                <h3 style="color: inherit">معلومات التواصل</h3>
-                                <ul>
-                                    <li class="address" style="color: white">المدينة المنورة</li>
-                                    <li class="phone" style="color: white">0581422970</li>
-                                    <li class="email"><a style="color: white">info@ProgFields.com</a></li>
-                                    <li class="url"><a href="ProgFields.com" style="color: white">ProgFields.com</a></li>
-                                </ul>
-                            </div>
-
-                        </div>
-
-                        <div class="row" style="direction: rtl">
+                        <div class="row" style="margin-left: 10%">
                             <div class="col-md-6">
-                                <h3 style="color: inherit">إرسال رسالة</h3>
-                                <form action="system/Send_email.php?pid=home_ar" method="post">
-                                    <div class="row form-group" style="-moz-transform: scaleX(-1);-o-transform: scaleX(-1);-webkit-transform: scaleX(-1);transform: scaleX(-1);filter: 'FlipH';-ms-filter: 'FlipH';">
-
-                                        <div class="col-md-6" style="-moz-transform: scaleX(-1);-o-transform: scaleX(-1);-webkit-transform: scaleX(-1);transform: scaleX(-1);filter: 'FlipH';-ms-filter: 'FlipH';">
-                                            <label for="fname" class="sr-only">الإسم الاول</label>
-                                            <input type="text" id="fname" name="Fname" class="form-control" placeholder="الاسم الاول" required>
+                                <h3 style="color: inherit">Send message</h3>
+                                <form action="system/Send_email.php?pid=home_en" method="post">
+                                    <div class="row form-group">
+                                        <div class="col-md-6">
+                                            <label for="fname" class="sr-only">First name</label>
+                                            <input type="text" id="fname" name="Fname" class="form-control" placeholder="First name" required>
                                         </div>
 
-                                        <div class="col-md-6" style="-moz-transform: scaleX(-1);-o-transform: scaleX(-1);-webkit-transform: scaleX(-1);transform: scaleX(-1);filter: 'FlipH';-ms-filter: 'FlipH';">
-                                            <label for="lname" class="sr-only">الإسم الاخير</label>
-                                            <input type="text" id="lname" name="Lname" class="form-control" placeholder="الاسم الاخير" required>
+                                        <div class="col-md-6">
+                                            <label for="lname" class="sr-only">Last name</label>
+                                            <input type="text" id="lname" name="Lname" class="form-control" placeholder="Last name" required>
                                         </div>
 
                                     </div>
                                     <div class="row form-group">
                                         <div class="col-md-12">
-                                            <label for="email" class="sr-only">الإيميل</label>
-                                            <input type="email" id="email" name="email" class="form-control" placeholder="الايميل" required>
+                                            <label for="email" class="sr-only">Email</label>
+                                            <input type="email" id="email" name="email" class="form-control" placeholder="Email" required>
                                         </div>
                                     </div>
 
                                     <div class="row form-group">
                                         <div class="col-md-12">
-                                            <label for="subject" class="sr-only">العنوان</label>
-                                            <input type="text" id="subject" name="subject" class="form-control" placeholder="عنوان الرسالة" required>
+                                            <label for="subject" class="sr-only">Subject</label>
+                                            <input type="text" id="subject" name="subject" class="form-control" placeholder="Subject" required>
                                         </div>
                                     </div>
 
                                     <div class="row form-group">
                                         <div class="col-md-12">
-                                            <label for="message" class="sr-only">الرسالة</label>
-                                            <textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="مالذي تريد إخبارنا به ..." required></textarea>
+                                            <label for="message" class="sr-only">Message</label>
+                                            <textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="What do you want to tell us ..." required></textarea>
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <input type="submit" value="إرسال الرسالة" name="send" class="btn btn-primary">
+                                        <input type="submit" value="Send" class="btn btn-primary">
                                     </div>
 
                                 </form>
                             </div>
 
+                            <div class="col-md-5 col-md-push-1">
+                                <div class="gtco-contact-info">
+                                    <h3 style="color: inherit">contact information</h3>
+                                    <ul>
+                                        <li class="address" style="color: white">AL Madinah AL Munawwarah</li>
+                                        <li class="phone" style="color: white">0581422970</li>
+                                        <li class="email"><a style="color: white">info@ProgFields.com</a></li>
+                                        <li class="url"><a href="ProgFields.com" style="color: white">ProgFields.com</a></li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -647,43 +573,40 @@
     <div class="gtco-container">
         <div class="row row-pb-md">
 
-            <div class="col-md-4 col-sm-4 col-xs-6 col-md-push-1">
-                <div class="form-group">
-                    <form action="system/subscripe.php?pid=home_ar" method="post">
-                        <label for="email" class="pull-right">أدخل إيميلك للإشتراك معنا</label>
-                        <input type="email" class="form-control" id="email_Share" name="email" style="direction: rtl" placeholder="إشترك معنا للحصول على آخر العروض والأسعار">
-                        <input type="submit" name="send" value="إشتراك" class="btn pull-right" style="margin-top: 10px">
-                    </form>
-                </div>
+            <div class="col-md-4 gtco-widget">
+                <h3>Programing Fields</h3>
+                <p>Is a national institution specialized in the field of information technology, established in light of the growing requirements of the IT sector to be an entity that drives the development of the software industry in the region according to the latest scientific methods, and instilling the idea of creativity and perfection in this industry ...</p>
+                <p><a href="#who are we">Read more ...</a></p>
             </div>
 
             <div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1">
-                <ul class="gtco-footer-links text-right" style="float: right">
-                    <li><a href="index.php?pid=home_ar">الرئيسية</a></li>
-                    <li><a href="#who are we">من نحن</a></li>
-                    <li><a href="#services">خدماتنا</a></li>
-                    <li><a href="#tools">الأدوات</a></li>
-                    <li><a style="display: none" href="#team work">فريق العمل</a></li>
-                    <li><a href="#contact us">تواصل معنا</a></li>
+                <ul class="gtco-footer-links">
+                    <li><a href="index.php?pid=home_en">Home</a></li>
+                    <li><a href="#who are we">Who are we</a></li>
+                    <li><a href="#Services">Services</a></li>
+                    <li><a href="#Tools">Tools</a></li>
+                    <li><a style="display: none" href="#Team Work">team work</a></li>
+                    <li><a href="#Contact us">Contact us</a></li>
                 </ul>
             </div>
 
-            <div class="col-md-4 gtco-widget text-right" style="float: right">
-                <h3>حقول برمجية</h3>
-                <p>مؤسسة وطنية متخصصة في مجال تقنية المعلومات , تأسست في ظل تنامي متطلبات قطاع تقنية المعلومات
-                    لتكون كيان يدفع باتجاه تطور صناعة البرمجيات في المنطقة وفق أحدث الطرق العلمية , وترسيخ فكر
-                    الإبداع و الإتقان في هذه الصناعة اعتماداً على كوادر ذو خبرات علمية وعملية من ...
-                </p>
-                <p><a href="#ًمن نحن">إقرأ المزيد</a></p>
+            <div class="col-md-4 col-sm-4 col-xs-6 col-md-push-1">
+                <div class="form-group">
+                    <form action="system/subscripe.php?pid=home_en"  method="post">
+                        <label for="email" class="pull-left">Enter your email to subscribe</label>
+                        <input type="email" class="form-control" id="email_Share" name="email" placeholder="Subscribe for latest offers and prices">
+                        <input type="submit" name="send" value="Subscripe"  class="btn pull-left" style="margin-top: 10px">
+                    </form>
+                </div>
             </div>
         </div>
 
         <div class="row copyright text-center"  style="margin-top: -150px">
             <div class="col-md-12">
                 <p class="pull-left">
-                <h4 class="block" style="color:#52d3aa">حقول برمجية</h4>
-                <small class="block">&copy; 2017  جميع الحقوق محفوظة.</small>
-                <small class="block">صممت بواسطة : <a href="index.php?pid=home_ar" target="_blank">مؤسسة حقول برمجية</a></small>
+                <h4 class="block" style="color:#52d3aa">Programing Fields</h4>
+                <small class="block">&copy; 2017  All copyrights reserved.</small>
+                <small class="block">designed by : <a href="index.php?pid=home_en" target="_blank">Corporation Programing Fields</a></small>
                 </p>
                 <p class="pull-right">
                 <ul class="gtco-social-icons">
@@ -691,7 +614,7 @@
                     <li><a href="https://www.facebook.com/ProgFields" title="ProgFields" target="_blank"><i class="icon-facebook"></i></a></li>
                     <li><a href="https://www.linkedin.com/in/programing-fields-a0900b14b/" title="ProgFields" target="_blank"><i class="icon-linkedin"></i></a></li>
                     <li><a href="https://www.instagram.com/progfields/" title="ProgFields" target="_blank"><i class="icon-instagram"></i></a></li>
-                </ul>
+            </ul>
                 </p>
             </div>
         </div>
@@ -726,3 +649,4 @@
 
 </body>
 </html>
+

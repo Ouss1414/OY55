@@ -109,7 +109,7 @@ function Show_calculate_ar(){
                                     </span>
     
                                     <span class="counter js-counter" data-from="0" data-to="'. $hours .'" data-speed="5000" data-refresh-interval="50">1</span>
-                                    <span class="counter-label">Hours Worked</span>
+                                    <span class="counter-label">ساعات العمل</span>
     
                                 </div>
                             </div>

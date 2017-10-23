@@ -290,7 +290,7 @@
 
     <!-- تعداد -->
     <?php
-        Show_calculate_en();
+        Show_information_site_en();
     ?>
 
     <!-- الاد،ات -->

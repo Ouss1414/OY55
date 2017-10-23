@@ -1,5 +1,5 @@
 <?php
-function Show_calculate_en(){
+function Show_information_site_en(){
     $to_time = strtotime("2017-10-20 12:00:00AM");
     $from_time = Date("Y-m-d h:i:sa");
     $from_time = strtotime($from_time);
@@ -60,7 +60,7 @@ function Show_calculate_en(){
     ';
 }
 
-function Show_calculate_ar(){
+function Show_information_site_ar(){
     $to_time = strtotime("2017-10-20 12:00:00AM");
     $from_time = Date("Y-m-d h:i:sa");
     $from_time = strtotime($from_time);

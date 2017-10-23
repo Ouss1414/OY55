@@ -309,7 +309,7 @@
 
     <!-- تعداد -->
     <?php
-        Show_calculate_ar();
+        Show_information_site_ar();
     ?>
 
     <!-- الاد،ات -->
